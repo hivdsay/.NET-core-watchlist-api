@@ -1,0 +1,33 @@
+/Users/hivdaarduc/RiderProjects/WatchListProject/WatchList.Entities/bin/Debug/net8.0/WatchList.Entities.deps.json
+/Users/hivdaarduc/RiderProjects/WatchListProject/WatchList.Entities/bin/Debug/net8.0/WatchList.Entities.dll
+/Users/hivdaarduc/RiderProjects/WatchListProject/WatchList.Entities/bin/Debug/net8.0/WatchList.Entities.pdb
+/Users/hivdaarduc/RiderProjects/WatchListProject/WatchList.Entities/obj/Debug/net8.0/WatchList.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hivdaarduc/RiderProjects/WatchListProject/WatchList.Entities/obj/Debug/net8.0/WatchList.Entities.AssemblyInfoInputs.cache
+/Users/hivdaarduc/RiderProjects/WatchListProject/WatchList.Entities/obj/Debug/net8.0/WatchList.Entities.AssemblyInfo.cs
+/Users/hivdaarduc/RiderProjects/WatchListProject/WatchList.Entities/obj/Debug/net8.0/WatchList.Entities.csproj.CoreCompileInputs.cache
+/Users/hivdaarduc/RiderProjects/WatchListProject/WatchList.Entities/obj/Debug/net8.0/WatchList.Entities.dll
+/Users/hivdaarduc/RiderProjects/WatchListProject/WatchList.Entities/obj/Debug/net8.0/refint/WatchList.Entities.dll
+/Users/hivdaarduc/RiderProjects/WatchListProject/WatchList.Entities/obj/Debug/net8.0/WatchList.Entities.pdb
+/Users/hivdaarduc/RiderProjects/WatchListProject/WatchList.Entities/obj/Debug/net8.0/ref/WatchList.Entities.dll
+C:/Users/harun/OneDrive/Desktop/WatchListProject/WatchListProject kopyası/WatchList.Entities/bin/Debug/net8.0/WatchList.Entities.deps.json
+C:/Users/harun/OneDrive/Desktop/WatchListProject/WatchListProject kopyası/WatchList.Entities/bin/Debug/net8.0/WatchList.Entities.dll
+C:/Users/harun/OneDrive/Desktop/WatchListProject/WatchListProject kopyası/WatchList.Entities/bin/Debug/net8.0/WatchList.Entities.pdb
+C:/Users/harun/OneDrive/Desktop/WatchListProject/WatchListProject kopyası/WatchList.Entities/obj/Debug/net8.0/WatchList.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/harun/OneDrive/Desktop/WatchListProject/WatchListProject kopyası/WatchList.Entities/obj/Debug/net8.0/WatchList.Entities.AssemblyInfoInputs.cache
+C:/Users/harun/OneDrive/Desktop/WatchListProject/WatchListProject kopyası/WatchList.Entities/obj/Debug/net8.0/WatchList.Entities.AssemblyInfo.cs
+C:/Users/harun/OneDrive/Desktop/WatchListProject/WatchListProject kopyası/WatchList.Entities/obj/Debug/net8.0/WatchList.Entities.csproj.CoreCompileInputs.cache
+C:/Users/harun/OneDrive/Desktop/WatchListProject/WatchListProject kopyası/WatchList.Entities/obj/Debug/net8.0/WatchList.Entities.dll
+C:/Users/harun/OneDrive/Desktop/WatchListProject/WatchListProject kopyası/WatchList.Entities/obj/Debug/net8.0/refint/WatchList.Entities.dll
+C:/Users/harun/OneDrive/Desktop/WatchListProject/WatchListProject kopyası/WatchList.Entities/obj/Debug/net8.0/WatchList.Entities.pdb
+C:/Users/harun/OneDrive/Desktop/WatchListProject/WatchListProject kopyası/WatchList.Entities/obj/Debug/net8.0/ref/WatchList.Entities.dll
+/Users/hivdaarduc/WatchListProject/WatchList.Entities/bin/Debug/net8.0/WatchList.Entities.deps.json
+/Users/hivdaarduc/WatchListProject/WatchList.Entities/bin/Debug/net8.0/WatchList.Entities.dll
+/Users/hivdaarduc/WatchListProject/WatchList.Entities/bin/Debug/net8.0/WatchList.Entities.pdb
+/Users/hivdaarduc/WatchListProject/WatchList.Entities/obj/Debug/net8.0/WatchList.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hivdaarduc/WatchListProject/WatchList.Entities/obj/Debug/net8.0/WatchList.Entities.AssemblyInfoInputs.cache
+/Users/hivdaarduc/WatchListProject/WatchList.Entities/obj/Debug/net8.0/WatchList.Entities.AssemblyInfo.cs
+/Users/hivdaarduc/WatchListProject/WatchList.Entities/obj/Debug/net8.0/WatchList.Entities.csproj.CoreCompileInputs.cache
+/Users/hivdaarduc/WatchListProject/WatchList.Entities/obj/Debug/net8.0/WatchList.Entities.dll
+/Users/hivdaarduc/WatchListProject/WatchList.Entities/obj/Debug/net8.0/refint/WatchList.Entities.dll
+/Users/hivdaarduc/WatchListProject/WatchList.Entities/obj/Debug/net8.0/WatchList.Entities.pdb
+/Users/hivdaarduc/WatchListProject/WatchList.Entities/obj/Debug/net8.0/ref/WatchList.Entities.dll

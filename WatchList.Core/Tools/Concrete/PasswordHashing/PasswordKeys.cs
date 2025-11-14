@@ -1,0 +1,8 @@
+namespace WatchList.Core.Tools.Concrete.PasswordHashing;
+
+public class PasswordKeys
+{
+    public const string hashMacKey = "14515b54d54514be145154d1547777c156a564d451af4515154c165165165f16515661f15415415fe154154145154a5151545415451f15154154745415411166";
+    public const string innerKey = "MJHB1567Jnjkdsc7898MKLNasacsd164mklbgd49865JHGXS7815mbm78rtuıjg965fiued12KMJVcPr782ErHD145154qwavvk257bfg36bfPOCKLi145csegbgfab91vd";
+    public const string outerKey = "154MKLgvhb1674nvfsjlkCBAHLJ17385CTFHpmk4178caNHJer478AcamlksboirstOKIvdf154478kmvdfsjnjkKNJ47851ANSILA678NHFGsd65982vdf2f5s68vnh56nh";
+}

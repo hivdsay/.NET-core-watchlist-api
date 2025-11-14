@@ -1,0 +1,51 @@
+/Users/hivdaarduc/RiderProjects/WatchListProject/WatchList.DataAccess/bin/Debug/net8.0/WatchList.DataAccess.deps.json
+/Users/hivdaarduc/RiderProjects/WatchListProject/WatchList.DataAccess/bin/Debug/net8.0/WatchList.DataAccess.dll
+/Users/hivdaarduc/RiderProjects/WatchListProject/WatchList.DataAccess/bin/Debug/net8.0/WatchList.DataAccess.pdb
+/Users/hivdaarduc/RiderProjects/WatchListProject/WatchList.DataAccess/bin/Debug/net8.0/WatchList.Core.dll
+/Users/hivdaarduc/RiderProjects/WatchListProject/WatchList.DataAccess/bin/Debug/net8.0/WatchList.Entities.dll
+/Users/hivdaarduc/RiderProjects/WatchListProject/WatchList.DataAccess/bin/Debug/net8.0/WatchList.Core.pdb
+/Users/hivdaarduc/RiderProjects/WatchListProject/WatchList.DataAccess/bin/Debug/net8.0/WatchList.Entities.pdb
+/Users/hivdaarduc/RiderProjects/WatchListProject/WatchList.DataAccess/obj/Debug/net8.0/WatchList.DataAccess.csproj.AssemblyReference.cache
+/Users/hivdaarduc/RiderProjects/WatchListProject/WatchList.DataAccess/obj/Debug/net8.0/WatchList.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hivdaarduc/RiderProjects/WatchListProject/WatchList.DataAccess/obj/Debug/net8.0/WatchList.DataAccess.AssemblyInfoInputs.cache
+/Users/hivdaarduc/RiderProjects/WatchListProject/WatchList.DataAccess/obj/Debug/net8.0/WatchList.DataAccess.AssemblyInfo.cs
+/Users/hivdaarduc/RiderProjects/WatchListProject/WatchList.DataAccess/obj/Debug/net8.0/WatchList.DataAccess.csproj.CoreCompileInputs.cache
+/Users/hivdaarduc/RiderProjects/WatchListProject/WatchList.DataAccess/obj/Debug/net8.0/WatchLis.B90C1138.Up2Date
+/Users/hivdaarduc/RiderProjects/WatchListProject/WatchList.DataAccess/obj/Debug/net8.0/WatchList.DataAccess.dll
+/Users/hivdaarduc/RiderProjects/WatchListProject/WatchList.DataAccess/obj/Debug/net8.0/refint/WatchList.DataAccess.dll
+/Users/hivdaarduc/RiderProjects/WatchListProject/WatchList.DataAccess/obj/Debug/net8.0/WatchList.DataAccess.pdb
+/Users/hivdaarduc/RiderProjects/WatchListProject/WatchList.DataAccess/obj/Debug/net8.0/ref/WatchList.DataAccess.dll
+C:/Users/harun/OneDrive/Desktop/WatchListProject/WatchListProject kopyası/WatchList.DataAccess/bin/Debug/net8.0/WatchList.DataAccess.deps.json
+C:/Users/harun/OneDrive/Desktop/WatchListProject/WatchListProject kopyası/WatchList.DataAccess/bin/Debug/net8.0/WatchList.DataAccess.dll
+C:/Users/harun/OneDrive/Desktop/WatchListProject/WatchListProject kopyası/WatchList.DataAccess/bin/Debug/net8.0/WatchList.DataAccess.pdb
+C:/Users/harun/OneDrive/Desktop/WatchListProject/WatchListProject kopyası/WatchList.DataAccess/bin/Debug/net8.0/WatchList.Core.dll
+C:/Users/harun/OneDrive/Desktop/WatchListProject/WatchListProject kopyası/WatchList.DataAccess/bin/Debug/net8.0/WatchList.Entities.dll
+C:/Users/harun/OneDrive/Desktop/WatchListProject/WatchListProject kopyası/WatchList.DataAccess/bin/Debug/net8.0/WatchList.Core.pdb
+C:/Users/harun/OneDrive/Desktop/WatchListProject/WatchListProject kopyası/WatchList.DataAccess/bin/Debug/net8.0/WatchList.Entities.pdb
+C:/Users/harun/OneDrive/Desktop/WatchListProject/WatchListProject kopyası/WatchList.DataAccess/obj/Debug/net8.0/WatchList.DataAccess.csproj.AssemblyReference.cache
+C:/Users/harun/OneDrive/Desktop/WatchListProject/WatchListProject kopyası/WatchList.DataAccess/obj/Debug/net8.0/WatchList.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/harun/OneDrive/Desktop/WatchListProject/WatchListProject kopyası/WatchList.DataAccess/obj/Debug/net8.0/WatchList.DataAccess.AssemblyInfoInputs.cache
+C:/Users/harun/OneDrive/Desktop/WatchListProject/WatchListProject kopyası/WatchList.DataAccess/obj/Debug/net8.0/WatchList.DataAccess.AssemblyInfo.cs
+C:/Users/harun/OneDrive/Desktop/WatchListProject/WatchListProject kopyası/WatchList.DataAccess/obj/Debug/net8.0/WatchList.DataAccess.csproj.CoreCompileInputs.cache
+C:/Users/harun/OneDrive/Desktop/WatchListProject/WatchListProject kopyası/WatchList.DataAccess/obj/Debug/net8.0/WatchLis.B90C1138.Up2Date
+C:/Users/harun/OneDrive/Desktop/WatchListProject/WatchListProject kopyası/WatchList.DataAccess/obj/Debug/net8.0/WatchList.DataAccess.dll
+C:/Users/harun/OneDrive/Desktop/WatchListProject/WatchListProject kopyası/WatchList.DataAccess/obj/Debug/net8.0/refint/WatchList.DataAccess.dll
+C:/Users/harun/OneDrive/Desktop/WatchListProject/WatchListProject kopyası/WatchList.DataAccess/obj/Debug/net8.0/WatchList.DataAccess.pdb
+C:/Users/harun/OneDrive/Desktop/WatchListProject/WatchListProject kopyası/WatchList.DataAccess/obj/Debug/net8.0/ref/WatchList.DataAccess.dll
+/Users/hivdaarduc/WatchListProject/WatchList.DataAccess/bin/Debug/net8.0/WatchList.DataAccess.deps.json
+/Users/hivdaarduc/WatchListProject/WatchList.DataAccess/bin/Debug/net8.0/WatchList.DataAccess.dll
+/Users/hivdaarduc/WatchListProject/WatchList.DataAccess/bin/Debug/net8.0/WatchList.DataAccess.pdb
+/Users/hivdaarduc/WatchListProject/WatchList.DataAccess/bin/Debug/net8.0/WatchList.Core.dll
+/Users/hivdaarduc/WatchListProject/WatchList.DataAccess/bin/Debug/net8.0/WatchList.Entities.dll
+/Users/hivdaarduc/WatchListProject/WatchList.DataAccess/bin/Debug/net8.0/WatchList.Core.pdb
+/Users/hivdaarduc/WatchListProject/WatchList.DataAccess/bin/Debug/net8.0/WatchList.Entities.pdb
+/Users/hivdaarduc/WatchListProject/WatchList.DataAccess/obj/Debug/net8.0/WatchList.DataAccess.csproj.AssemblyReference.cache
+/Users/hivdaarduc/WatchListProject/WatchList.DataAccess/obj/Debug/net8.0/WatchList.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hivdaarduc/WatchListProject/WatchList.DataAccess/obj/Debug/net8.0/WatchList.DataAccess.AssemblyInfoInputs.cache
+/Users/hivdaarduc/WatchListProject/WatchList.DataAccess/obj/Debug/net8.0/WatchList.DataAccess.AssemblyInfo.cs
+/Users/hivdaarduc/WatchListProject/WatchList.DataAccess/obj/Debug/net8.0/WatchList.DataAccess.csproj.CoreCompileInputs.cache
+/Users/hivdaarduc/WatchListProject/WatchList.DataAccess/obj/Debug/net8.0/WatchLis.B90C1138.Up2Date
+/Users/hivdaarduc/WatchListProject/WatchList.DataAccess/obj/Debug/net8.0/WatchList.DataAccess.dll
+/Users/hivdaarduc/WatchListProject/WatchList.DataAccess/obj/Debug/net8.0/refint/WatchList.DataAccess.dll
+/Users/hivdaarduc/WatchListProject/WatchList.DataAccess/obj/Debug/net8.0/WatchList.DataAccess.pdb
+/Users/hivdaarduc/WatchListProject/WatchList.DataAccess/obj/Debug/net8.0/ref/WatchList.DataAccess.dll
